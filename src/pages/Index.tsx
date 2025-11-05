@@ -23,7 +23,7 @@ const Index = () => {
             <div className="rounded-lg bg-gradient-primary p-2">
               <Truck className="h-6 w-6 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">UPL 4PL Platform</span>
+            <span className="text-xl font-bold">4PL</span>
           </div>
           <Button onClick={() => navigate('/auth')}>Get Started</Button>
         </div>
